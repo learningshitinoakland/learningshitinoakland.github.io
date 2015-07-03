@@ -14,3 +14,4 @@ Readme? ReadYOU.
 
 “Beware that, when resolving issues, you yourself do not become an issue... for when you gaze long into the readme, the readme gazes also into you.” - Friedrich Nietzsche
 
+Here's a russian rocketship: http://www.nasa.gov/multimedia/nasatv/index.html
