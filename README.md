@@ -19,5 +19,3 @@ Here's a russian rocketship: http://www.nasa.gov/multimedia/nasatv/index.html
 <img src="http://gifrific.com/wp-content/uploads/2012/04/Tina-Fey-giving-herself-high-five.gif">
 
 <img src="http://heavyeditorial.files.wordpress.com/2013/05/tumblr_inline_mjlz8vz0cn1qhi137.gif">
-
-<video class="gfyVid" autoplay="" loop="" style="width: 100%; height: auto;" poster="https://thumbs.gfycat.com/SleepyThisGreendarnerdragonfly-poster.jpg">
