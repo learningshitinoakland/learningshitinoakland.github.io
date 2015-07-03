@@ -11,3 +11,5 @@ Do not disparage the readme!
 I have no faith in this readme.
 
 Readme? ReadYOU.
+
+ZACK IS SLOW
