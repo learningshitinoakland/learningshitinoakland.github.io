@@ -12,4 +12,8 @@ I have no faith in this readme.
 
 Readme? ReadYOU.
 
+<<<<<<< HEAD
 “Beware that, when resolving issue, you yourself do not become an issue... for when you gaze long into the readme, the readme gazes also into you.”
+=======
+ZACK IS SLOW
+>>>>>>> origin/master
