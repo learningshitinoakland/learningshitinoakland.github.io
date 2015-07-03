@@ -11,3 +11,5 @@ Do not disparage the readme!
 I have no faith in this readme.
 
 Readme? ReadYOU.
+
+“Beware that, when resolving issue, you yourself do not become an issue... for when you gaze long into the readme, the readme gazes also into you.”
